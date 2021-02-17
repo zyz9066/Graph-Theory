@@ -1,4 +1,4 @@
-# CS569-Graph-Theory
+# Graph-Theory
 8 graph algorithms written in Matlab.
 
 ## Section 10.4:
